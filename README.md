@@ -102,13 +102,17 @@ There is a clear overall positive growth in both total sales and total profit ac
 
 **Loss-Making Products (Avoid/Mitigate):** The sub-category Tables consistently generates significant losses, making it a critical area to review (pricing, supplier costs, shipping, or discontinue low-profit items).
 
-### 👥 **Customer Analysis**
-- Total Customers by Year
-- Sales, Profit and Profit Margin by Customer Segment
-- Top 3 Customers leaderboard  
-- Total Orders by Month, Year, and Day of Week
-- Average Order Value
-- Average Shipping Time by Ship Mode
+## 👥 **Customer Analysis**
+### 8. Which customer segment generates the highest sales and profit?
+<img width="859" height="603" alt="image" src="https://github.com/user-attachments/assets/9bb13dc6-400a-45de-87e8-e3e98c3eae26" />
+
+
+**Highest Sales:** The Consumer segment generates the highest total sales.
+
+**Highest Profit Margin (Target):** The Home Office and Corporate segments have a higher profit margin than the Consumer segment. This suggests that while Consumers buy more, Corporate and Home Office customers are more profitable per dollar of sale.
+
+**Action:** Target the Corporate and Home Office segments for higher-margin products (e.g., Technology and Office Supplies).
+
 
 All PivotTables are **linked to a Year slicer** for interactive filtering.
 
