@@ -33,7 +33,10 @@ Solving this crisis required transforming the raw transactional data into action
 
 - **Custom Feature Engineering:** The most critical step was using nested IF formulas in Excel to create the Discount Range variable, which was not available in the raw data. This simple transformation unlocked the entire profitability analysis.
 - **Flagging the Financial Health:** Calculated `Profit Margin %` and `YoY Variance` to expose the 0.68% **margin decline** in 2017 despite high sales, giving leadership a critical financial alert.
-- **Dynamic Reporting:** Built a** C-level interactive dashboard** using **PivotTables, Slicers, and Conditional Formatting** to allow managers to instantly filter performance by Year, Region, and Product Category, replacing static reports with dynamic analysis.
+
+   <img width="480" height="178" alt="image" src="https://github.com/user-attachments/assets/60d57259-5fac-4ee5-8ebe-ec7fde002720" />
+
+- **Dynamic Reporting:** Built a **C-level interactive dashboard** using **PivotTables, Slicers, and Conditional Formatting** to allow managers to instantly filter performance by Year, Region, and Product Category, replacing static reports with dynamic analysis.
 
 ## 🗺️ Beyond Discounts: Strategic Growth Pathways
 The analysis also provided high-leverage insights to maximize profitable growth once the discounting issue is fixed:
