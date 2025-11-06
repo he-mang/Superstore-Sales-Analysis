@@ -8,6 +8,7 @@
 
 ## 🧠 The Story: Growth on the Surface, Bleeding Beneath
 Apex Supplies was facing a quiet crisis: top-line revenue looked strong with **20.36% YoY growth**, but the profit margin was shrinking. The question from leadership was simple: **"Where is our profit going?"**
+<img width="720" height="720" alt="image" src="https://github.com/user-attachments/assets/4508551d-2a2c-4a7f-ae9e-8eb367228ee6" />
 
 This project moved beyond simple reporting to isolate the hidden financial drain. By analyzing over 9,000 transactions, the data revealed that Apex was engaged in **profit-destroying behavior**—specifically, an unchecked discounting culture—that was actively masking its true operational profitability.
 
